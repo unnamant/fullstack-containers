@@ -1,0 +1,10 @@
+I installed curl and Node with these commands:
+1. apt update && apt install curl -y
+2. curl -sL https://deb.nodesource.com/setup_24.x | bash
+3. apt install -y nodejs
+
+Exercise commands and output:
+root@f9bb70968abc:/# node /usr/src/app/index.js
+Hello World
+root@f9bb70968abc:/# exit
+exit
