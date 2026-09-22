@@ -1,0 +1,6 @@
+unnamant@lx4-fuxi066:~/fs-containers$ docker start -i f9bb70968abc
+root@f9bb70968abc:/# nano /usr/src/app/index.js
+root@f9bb70968abc:/# cat /usr/src/app/index.js
+console.log('Hello World')
+root@f9bb70968abc:/# exit
+exit
